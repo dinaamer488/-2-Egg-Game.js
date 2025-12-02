@@ -1,8 +1,8 @@
-# Egg‑Game
+# Egg‑Game.js
 
 ## Description
 
-Eggs‑Game is a simple game template/project intended for building a small interactive game. It provides basic structure, assets and logic so you can customize, expand, or use it as a learning base for game development.
+Egg‑Game is a simple game template/project intended for building a small interactive game. It provides basic structure, assets and logic so you can customize, expand, or use it as a learning base for game development.
 
 ## What It Does / Features
 
